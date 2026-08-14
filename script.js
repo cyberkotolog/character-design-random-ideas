@@ -101,9 +101,9 @@ function generate(){
     "really long tail", 
     "snail eyes", 
     "big wings", 
-    "none",
-    "none",
-    "none",
+    "long ponytail(s)",
+    "prominent dewlap",
+    "horns",
     "none",
     "none",
     "none",
@@ -123,12 +123,14 @@ function generate(){
     "McKenna Rae - A Human's Touch", 
     "BugDroidCell - THIS IS FNAF", 
     "berenika - darker times",
-    "Epoch - Savlonic",
+    "Savlonic - Epoch",
     "Electroforez - Komendatsky chas",
     "IC3PEAK - Boo-Hoo",
-    "Flavor foley - Spoken For ft. Kasane Teto",
-    ""
-
+    "Flavor foley - Spoken For",
+    "inabakumori - Float Play",
+      "inabakumori - I'm the Rain",
+      "Flafor foley - streetcat",
+   "lampabikt - to become the wind (лампабикт - ветром стать)",
 ];
 
    var songthing = ''
